@@ -28,3 +28,12 @@
 <p align="center">
   <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Laboratory%20Contribution%20Philosophy/Slide10.png">
 </p>
+<p align="center">
+  <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Laboratory%20Contribution%20Philosophy/Slide11.png">
+</p>
+<p align="center">
+  <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Laboratory%20Contribution%20Philosophy/Slide12.png">
+</p>
+<p align="center">
+  <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Laboratory%20Contribution%20Philosophy/Slide13.png">
+</p>
