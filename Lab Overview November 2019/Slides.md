@@ -41,7 +41,7 @@
   <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Lab%20Overview%20November%202019/Slide14.png"><BR>
 </p>
 <p align="center">
-  <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Laboratory%20Contribution%20Philosophy/Slide15.png"><BR>
+  <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Lab%20Overview%20November%202019/Slide15.png"><BR>
 </p>
 <p align="center">
   <img width="640" height="360" src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Lab%20Overview%20November%202019/Slide16.png"><BR>
