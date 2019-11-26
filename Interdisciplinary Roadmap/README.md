@@ -12,6 +12,8 @@ Hedgehogs and Foxes game:
 
 * foxes look for complexity and overarching patterns rather then cause and effect.
 
+Table 1. Payoffs for {Foxes, Hedgehogs}.
+
 |                  |Complexity       |Domain Knowledge    |Synthesis       |    
 |:----------------:|:---------------:|:------------------:|:--------------:|
 |Complexity        |     2, -2       |       0, 2         |    2, 0        |
@@ -19,4 +21,6 @@ Hedgehogs and Foxes game:
 |Synthesis         |     2, -2       |       2, 2         |    2, 0        |
 
 
+
+NOTES:
 <sup>1</sup> Epstein, D. (2019). Range: Why Generalists Triumph in a Specialized World. Penguin Press.
