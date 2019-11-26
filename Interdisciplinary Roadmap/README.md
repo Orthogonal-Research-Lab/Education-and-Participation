@@ -10,7 +10,8 @@ Hedgehogs and Foxes game:
 
 * foxes look for complexity and overarching patterns rather then cause and effect.
 
------------------|-------------|--------------|------------|
-Complexity       |     2,-2    |      0,2     |    2,0     |
-Domain Knowledge |     0,-2    |      0,2     |    0,0     |
-Synthesis        |     2,-2    |      2,2     |    2,0     |
+|                 |Complexity   |Domain Knowledge|Synthesis   |    
+|-----------------|-------------|----------------|------------|
+|Complexity       |     2,-2    |       0,2      |    2,0     |
+|Domain Knowledge |     0,-2    |       0,2      |    0,0     |
+|Synthesis        |     2,-2    |       2,2      |    2,0     |
