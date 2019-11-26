@@ -12,13 +12,12 @@ Hedgehogs and Foxes game:
 
 * foxes look for complexity and overarching patterns rather then cause and effect.
 
-Table 1. Payoffs for {Foxes, Hedgehogs}.
-|             |                              Hedgehog Play                               |
-|             |                  |Complexity       |Domain Knowledge    |Synthesis       |    
-|             |:----------------:|:---------------:|:------------------:|:--------------:|
-|Foxes Play   |Complexity        |     2, -2       |       0, 2         |    2, 0        |
-|             |Domain Knowledge  |     0, -2       |       0, 2         |    0, 0        |
-|             |Synthesis         |     2, -2       |       2, 2         |    2, 0        |
+Table 1. Payoffs for {Foxes, Hedgehogs}. Vertical (foxes) and Horizontal (hedgehogs).
+|                  |Complexity       |Domain Knowledge    |Synthesis       |    
+|:----------------:|:---------------:|:------------------:|:--------------:|
+|Complexity        |     2, -2       |       0, 2         |    2, 0        |
+|Domain Knowledge  |     0, -2       |       0, 2         |    0, 0        |
+|Synthesis         |     2, -2       |       2, 2         |    2, 0        |
 
 
 
