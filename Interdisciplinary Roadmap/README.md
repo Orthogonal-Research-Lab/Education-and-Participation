@@ -18,9 +18,9 @@ Table 1. Payoffs for {Foxes, Hedgehogs}. Vertical (foxes) and Horizontal (hedgeh
 |:----------------:|:---------------:|:------------------:|:--------------:|
 |Complexity        |     2, -2       |       0, 2         |    2, 0        |
 |Domain Knowledge  |     0, -2       |       0, 2         |    0, 0        |
-|Synthesis         |     2, -2       |       2, 2         |    2, 0        |
-
-
-
-NOTES:
+|Synthesis         |     2, -2       |       2, 2         |    2, 0        |  
+  
+  
+  
+NOTES:  
 <sup>1</sup> Epstein, D. (2019). Range: Why Generalists Triumph in a Specialized World. Penguin Press.
