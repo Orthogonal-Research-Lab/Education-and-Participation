@@ -5,3 +5,5 @@ Notes on the [Google Summer of Code roadmap](https://github.com/Orthogonal-Resea
 2) there are connections between the two streams as shown between 2018 and 2019. 
 
 3) as of November 2019, the 2020 topics are tentative. This is the direction we would like to go in, but this will depend on the final proposals.
+
+4) NeuroSim theme: need a web presence for this. Contextual Connection Machines will be defined based on 2018, 2019 projects.  
