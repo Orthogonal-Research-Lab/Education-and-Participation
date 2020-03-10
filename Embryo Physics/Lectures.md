@@ -1,15 +1,20 @@
 ### 2014  
-January 8 – Professor Stephen A. Krawetz, Wayne State University School of Medicine, OB/Gyn and Molecular Medicine & Genetics: When the Sperm meets the Egg: a structural and genomic perspective
+January 8: Professor Stephen A. Krawetz, Wayne State University School of Medicine, OB/Gyn and Molecular Medicine & Genetics
+When the Sperm meets the Egg: a structural and genomic perspective
 
-January 15 – Dr. Stephen M. Levin, M.D., Ezekiel Biomechanics Group, McLean, VA: Biotensegrity: Bioarchitecture & Dynamic Anatomy
+January 15: Dr. Stephen M. Levin, M.D., Ezekiel Biomechanics Group, McLean, VA
+Biotensegrity: Bioarchitecture & Dynamic Anatomy  
 
 January 22 – Assistant Professor Roger Pique-Regi, Molecular Medicine and Genetics, Wayne State University School of Medicine: Experimental and computational methods for identifying genetic variants impact on gene regulation
 
-January 29 – Dr. Matt Wyczalkowski, Genome Institute, Washington University School of Medicine: Mechanisms of Embryonic Wound Healing: Experiment and Modeling
+January 29 – Dr. Matt Wyczalkowski, Genome Institute, Washington University School of Medicine
+Mechanisms of Embryonic Wound Healing: Experiment and Modeling  
 
-February 12 – Professor Michael Ruse, Florida State University, Department of Philosophy: From organism to mechanism—and halfway back?
+February 12: Professor Michael Ruse, Florida State University, Department of Philosophy
+From organism to mechanism—and halfway back?  
 
-February 19 – Dr. Genaro Juarez Martinez, Unconventional Computing Group, University of the West of England: Designing Complex Dynamics with Memory: Elementary Cellular Automata Case
+February 19: Dr. Genaro Juarez Martinez, Unconventional Computing Group, University of the West of England 
+Designing Complex Dynamics with Memory: Elementary Cellular Automata Case  
 
 February 26 – Dr. Rui Pires Martins, Queen Mary University of London: Nuclear and chromatin architecture changes accompanying differentiation
 
