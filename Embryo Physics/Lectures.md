@@ -1,20 +1,34 @@
 ### 2014  
-January 8: Professor Stephen A. Krawetz, Wayne State University School of Medicine, OB/Gyn and Molecular Medicine & Genetics
-When the Sperm meets the Egg: a structural and genomic perspective
+January 8: Professor Stephen A. Krawetz, Wayne State University School of Medicine, OB/Gyn and Molecular Medicine & Genetics  
+When the Sperm meets the Egg: a structural and genomic perspective  
 
-January 15: Dr. Stephen M. Levin, M.D., Ezekiel Biomechanics Group, McLean, VA
-Biotensegrity: Bioarchitecture & Dynamic Anatomy  
+January 15: Dr. Stephen M. Levin, M.D., Ezekiel Biomechanics Group, McLean, VA  
+Biotensegrity: Bioarchitecture & Dynamic Anatomy  [slides](/Levin2014.pdf)  
 
-January 22 – Assistant Professor Roger Pique-Regi, Molecular Medicine and Genetics, Wayne State University School of Medicine: Experimental and computational methods for identifying genetic variants impact on gene regulation
+Embryologic development, from ‘origin of life’ to organism, has been regarded by scientists as a series of chance occurrences, the “Blind Watchmaker” theory popularized by Richard Dawkins, “a universe without design”. What is argued in this talk is that the laws of physics as applied to structures must play a dominant, and often deciding, role in organism structure and evolution. Structural stability of the developing organism becomes a driving force and adherence to physical laws makes much of emergence “deterministic”. Only certain forms are acceptable and physical laws must be followed. A newly developing embryo will always cede to stable configuration rather than an unstable one, and to a lesser energy form rather than to a higher energy consuming form. The underlying structural ‘design’ features from viruses to vertebrae, their systems and sub-systems, are remarkably similar. ‘Chance’ is only relative and whatever emerges can do so only by following physical Laws. To quote D’Arcy Thompson,”Cell and tissue, shell and bone, leaf and flower, are so many portions of matter, and it is in obedience to the laws of physics that their particles have been moved, moulded and conformed.” We introduce the concept of “tensegrity” as the underlying mechanical structural organization that holds it all together.
 
-January 29 – Dr. Matt Wyczalkowski, Genome Institute, Washington University School of Medicine
-Mechanisms of Embryonic Wound Healing: Experiment and Modeling  
+January 22 – Assistant Professor Roger Pique-Regi, Molecular Medicine and Genetics, Wayne State University School of Medicine   Experimental and computational methods for identifying genetic variants impact on gene regulation  [slides](/Pique-Regi2014)  
+
+In this talk I will present novel computational methods for identifying regulatory sequences and for modeling the molecular mechanisms of gene transcription control. The objective is to get better maps of tissue / cell-condition specific regulatory regions of the genome. The methods are also useful for characterizing variation across individuals and to obtain a better understanding of the impact of genetic variation on the molecular mechanisms of gene transcription regulation, and on complex traits. Our results indicate that disruption of protein binding to DNA as measured by DNaseI footprinting is a major mechanism underlying genetic variants that are associated with changes in gene expression. We expect that these genetic variants are likely to be important contributors to phenotypic variation.
+
+January 29 – Dr. Matt Wyczalkowski, Genome Institute, Washington University School of Medicine  
+Mechanisms of Embryonic Wound Healing: Experiment and Modeling  [slides](/Wyczalkowski2014.pdf)  videos [1](http://youtu.be/8_IlnLw2aSI), [2](http://youtu.be/8_IlnLw2aSI), [3](http://youtu.be/r8FBmNXZleQ), [4](http://youtu.be/S9dbo0GjA1w), [5](http://youtu.be/McAa-5EwJJI), [6](http://youtu.be/CI85BTvHdPQ), [7](http://youtu.be/U8Y5NNZSjtQ), [8](http://youtu.be/OC3vx5sgEg4), [9](http://youtu.be/IPPSXxJW_Bk), [10](http://youtu.be/2UKQaVG-MNA)
+
+The healing of embryonic wounds yields insight into mechanical forces which shape a developing organism. Here we characterize healing of wounds in epithelia of early stage chick embryos, and use a newly developed computational model to investigate underlying cellular-level mechanisms.
+
+Early stage chick embryos, consisting of planar epithelial sheets two to three cell layers thick, were harvested and cultured ex ovo. Multicellular wounds were made and allowed to heal. We found that the closure rate of embryonic wounds displayed a two-phase behavior, with rapid constriction lasting about a minute, followed by more gradual contraction until the wound closed. Fluorescent staining revealed that soon after wounding a broad, faint ring of contractile actin and myosin-II encircles the wound. By one minute post wounding this structure gives way to a narrow actomyosin band at the wound border, consistent with a “purse string” healing mechanism observed in other embryonic systems. We hypothesize that contraction of the broad ring is responsible for the initial, rapid phase of wound closure, and that the narrow purse string drives the later slower phase.
+
+To test these mechanisms, we implemented both in a finite element computational model. We found that the rapid initial phase of wound closure is consistent only with an isotropic contraction of the broad ring surrounding the wound, and that the slower phase can be accounted for by the formation and circumferential contraction of fibers at the wound margin. Together, these two mechanisms can quantitatively reproduce the observed wound healing dynamics.
+
+The results of this integrated experimental and computational investigation suggest that a new mechanism, the isotropic contraction of cells in a broad ring around the wound, works together with an actomyosin contractile ring to close an embryonic wound.
 
 February 12: Professor Michael Ruse, Florida State University, Department of Philosophy
-From organism to mechanism—and halfway back?  
+From organism to mechanism—and halfway back?  [slides](/Ruse2014.pdf), book list(/Ruse-books)
 
 February 19: Dr. Genaro Juarez Martinez, Unconventional Computing Group, University of the West of England 
-Designing Complex Dynamics with Memory: Elementary Cellular Automata Case  
+Designing Complex Dynamics with Memory: Elementary Cellular Automata Case  [slides](/Martinez2014.pdf), [previous talk](/Martinez2010.pdf)
+
+Since their inception at Macy conferences in later 1940s complex systems remain the most controversial topic of inter-disciplinary sciences. The term complex system is the most vague and liberally used scientific term. Using elementary cellular automata (ECA), and exploiting the CA classification, we demonstrate elusiveness of complexity by shifting space-time dynamics of the automata from simple to complex by enriching cells with memory. This way, we can transform any ECA class to another ECA class — without changing skeleton of cell-state transition function — and vice versa by just selecting a right kind of memory. A systematic analysis display that memory helps discover hidden information and behaviour on trivial — uniform, periodic, and non-trivial — chaotic, complex — dynamical systems.
 
 February 26 – Dr. Rui Pires Martins, Queen Mary University of London: Nuclear and chromatin architecture changes accompanying differentiation
 
