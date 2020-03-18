@@ -1,0 +1,1 @@
+OpenWorm Virtual Open House [Announcement circa 2016](https://syntheticdaisies.blogspot.com/2016/10/openworm-blog-announcing-openworm-open.html), [archival materials](https://syntheticdaisies.blogspot.com/2017/02/openworm-open-house-videos.html)
