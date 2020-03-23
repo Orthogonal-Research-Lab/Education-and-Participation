@@ -2,8 +2,6 @@
 __January 8__ Professor Stephen A. Krawetz, Wayne State University School of Medicine, OB/Gyn and Molecular Medicine & Genetics  
 When the Sperm meets the Egg: a structural and genomic perspective  
 
-
-
 __January 15__ Dr. Stephen M. Levin, M.D., Ezekiel Biomechanics Group, McLean, VA  
 Biotensegrity: Bioarchitecture & Dynamic Anatomy  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Levin2014.pdf)  
 
@@ -27,17 +25,47 @@ Designing Complex Dynamics with Memory: Elementary Cellular Automata Case  [slid
 Since their inception at Macy conferences in later 1940s complex systems remain the most controversial topic of inter-disciplinary sciences. The term complex system is the most vague and liberally used scientific term. Using elementary cellular automata (ECA), and exploiting the CA classification, we demonstrate elusiveness of complexity by shifting space-time dynamics of the automata from simple to complex by enriching cells with memory. This way, we can transform any ECA class to another ECA class — without changing skeleton of cell-state transition function — and vice versa by just selecting a right kind of memory. A systematic analysis display that memory helps discover hidden information and behaviour on trivial — uniform, periodic, and non-trivial — chaotic, complex — dynamical systems.
 
 __February 26__ Dr. Rui Pires Martins, Queen Mary University of London
-Nuclear and chromatin architecture changes accompanying differentiation  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Martins2014) [Associated references](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Martins2014.list-of-refs.xlsx)
+Nuclear and chromatin architecture changes accompanying differentiation  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Martins2014.pdf) [Associated references](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Martins2014.list-of-refs.xlsx)
 
 Pluripotency in mouse embryonic stem cells (ESCs) is thought to contain two states. The  pluripotent ground state, characterised by high levels of bi-allelic expression of the nanog  gene, and the primed state, where Nanog levels are comparatively lower and low expression of early differentiation markers for all germs layers can be detected. The subsequent state involves commitment to a particular lineage, upregulating the requisite genes to promote that programme, while downregulating pluripotency genes. In keeping with these three states, ESCs undergo changes in mechanical properties, vis a vis a changes in overall nuclear deformation and chromatin mobility. The naïve ground state is characterised by stiff, non-deformable nuclei, that soften and become quite deformable, both at the level of the whole nucleus, as well as in terms of chromatin mobility, in the primed state. Whereas these pluripotent stages are characterised by lamina containing only A-type lamins, upon differentiation, A-type lamins are expressed. As primed nuclei transition to differentiation, they begin to express A-type lamins and become more stiff, though not necessarily as stiff as in the ground state. The mobile nature of the chromatin is also lost with differentiation, as cells of more limited developmental capacity (neural stem cells, NSCs, and embryonic fibroblasts) have less mobile chromatin, preserving the 3D relationships between adjacent chromosome territories, the chromosome neighbourhoods, were preserved with differentiation. While the stiffness of the nucleus is heavily affected by A-type lamin constituents of the lamina, other factors such as the level of chromatin condensation can severely augment the  mechanical properties of nuclei.
 
-March 5 – Assistant Professor Michael L. Smith, Boston University, Department of Biomedical Engineering: Biochemical and mechanical regulation of extracellular matrix signaling: insights from fibronectin
+__March 5__ Dr. Michael L. Smith, Boston University, Department of Biomedical Engineering  
+Biochemical and mechanical regulation of extracellular matrix signaling: insights from fibronectin [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Smith2014.pdf) 
 
-March 12 – Associate Professor Henry Heng, Molecular Medicine and Genetics, Wayne State University School of Medicine, 4D-Genomics: The genome dynamics and constraint in biology
+A growing trend in tissue engineering and regenerative medicine is to view cells, matrices and whole tissues from a materials science perspective. The rationale behind this novel approach to considering biological problems is that the material properties at these different length scales both define their physical stability and also provide instructive cues. These instructive cues can maintain homeostasis in healthy tissues or drive dynamic events during development, wound healing, and disease progression. This lecture will discuss how the extracellular matrix presents these instructive cues to cells, and also how cells regulate these instructive cues through biochemical and mechanical approaches.
 
-March 19 – Associate Professor Martin Hanczyc, University of Southern Denmark, Department of Physics and Chemistry & Associate Professor Daniel Merkle, University of Southern Denmark, Department of Mathematics and Computer Science: Hydrogen cyanide and the computational origin of life
+__March 12__ Dr. Henry Heng, Molecular Medicine and Genetics, Wayne State University School of Medicine  
+4D-Genomics: The genome dynamics and constraint in biology [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Heng2014.pdf)
 
-March 26 – Privatdozentin Dr. Barbara Tzschentke, Humboldt-Universität zu Berlin, Institut für Biologie: Imprinting of body functions during critical developmental periods
+Genetics and evolution represent two of the most important scientific disciplines and hold significant roles in the foundation of current biology.  To date, however, most molecular understanding of these subjects is based on gene-centric concepts, leading to many obvious paradoxes.  To address these issues, a genome based framework is urgently needed that can appropriately define system inheritance and illustrate the patterns of evolutionary dynamics and constraint.  In this presentation, the concept of 4D-Genomics will be introduced as a new framework based on the genome theory of cancer and organismal evolution.  In particular, the following questions will be briefly discussed through the lens of genome based evolutionary theory:  How do karyotypes, rather than specific genes, define the system or species?  What are the two phases of cancer evolution (Punctuated and Darwinian stepwise)?  What is the main function of sex and how is system inheritance defined and maintained?  What is the relationship between gene defined microevolution and genome defined macroevolution?  Finally, what is the importance of separating germ line and somatic cells?
+
+#### References:
+Heng HH. (2009). The genome-centric concept: resynthesis of evolutionary theory. _BioEssays_, 31, 512-525.  
+
+Heng HH, et al. (2011). Decoding the genome beyond sequencing: The new phase of genomic research. _Genomics_, 98, 242-252.  
+
+Heng, HH, et al. (2011). Evolutionary mechanisms and diversity in cancer. _Advances in Cancer Research_, 112, 217-253.  
+
+Horne et al, et al. (2013) Genome constraint through sexsual reproduction: application of 4D Genomics in reproductive biology. _Systems Biology and Reproductive Medicine, 59, 124-130.  
+
+Stevens JB, et al. (2013). Unstable genomes elevate transcriptome dynamics. _International Journal of Cancer_, 134, 2074-2087.  
+
+__March 19__ Dr. Martin Hanczyc, University of Southern Denmark, Department of Physics and Chemistry & Dr. Daniel Merkle, University of Southern Denmark, Department of Mathematics and Computer Science  
+Hydrogen cyanide and the computational origin of life [Dr. Hanczyc slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Hanczyc2014.pdf) [Dr. Merkle slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Merkle2014.pdf)
+
+
+__March 26__ Dr. Barbara Tzschentke, Humboldt-Universität zu Berlin, Institut für Biologie  
+Imprinting of body functions during critical developmental periods [reference list](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Tzschentke2014ref.pdf) [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Tzschentke2014.pdf)
+
+‘Imprinting’ describes a fundamental process of life, which occurs during limited periods of fetal (in birds embryonic) development and early phases of life. It has long-lasting effects and may be even passed on the succeeding generations in an epigenetic fashion. In his classical studies on newly hatched goslings, Konrad Lorenz (1935) analysed the development of social binding, applying the term ‘imprinting’ to describe this process. One of his major hypotheses was that ‘imprinting’ occurs during limited and severely restricted critical periods in early life. Later in 1974/1975, Günter Dörner, a pioneering developmental neuroendocrinologist, developed a general origination concept of the epigenetic perinatal programming of the lifetime function of fundamental regulatory systems. Hormones as well as neurotransmitters and cytotokines (as immune cell hormones) play a key role in this concept. They act as critical endogenous effectors, which transmit environmental information to the genome. Ultimately, they too are acting as epigenetic factors. ‘Imprinting’ of regulatory systems is probably realized at the microstructural level in the brain (e.g. in terms of synaptic plasticity), as well as by lasting, environment-induced (epigenetic) modification of the genome.
+
+Because of its independent development from the mother, the bird embryo provides an excellent model for investigations of pre- and perinatal ‘imprinting’ of body functions. It allows high standardized and controlled changes in epigenetic (environmental) factors during different time windows of early development.
+
+In the avian embryo, during final incubation the development of feedback mechanisms of physiological control systems is a ‘critical period’ and therefore sensitive to ‘imprinting’. During this ‘critical period’, the actual level at which physiological parameters are active may pre-determine a life-long ‘set point’ (or ‘set ranges’) for the respective physiological control system.
+
+On the one hand, chronic cold or warm load during the last days of incubation may adapt birds to the expected post-hatching environmental conditions by imprinting of the thermoregulatory system (prenatal epigenetic temperature adaptation). Phenotypic changes occur, which are typical for cold or warm adaptation. On the other hand, perinatal short-term temperature stimulation (“temperature training”) improves robustness of the birds. Because of the integrating role of the thermoregulatory system, it is worth considering that may also induce ‘imprinting’ of other body functions: metabolism, feed intake and body weight, immune system and behaviour, for example.
+
+‘Imprinting’ of body functions under suboptimal environmental conditions could be a basis for the perinatal malprogramming of body functions, producing e.g., metabolic disorders and cardiovascular diseases as well as behavioural disorders during later life. It is known from studies in humans (e.g. development of obesity due to gestational maternal diabetes) as well as in poultry (e.g. development of Acites syndrome due to suboptimum incubation conditions).  
 
 April 2 – Dr. Vito Conte, Institute for Bioengineering of Catalonia: Traction and stress microscopy for cells: the wound healing case
 
