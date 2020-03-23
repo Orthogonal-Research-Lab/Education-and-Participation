@@ -67,9 +67,14 @@ On the one hand, chronic cold or warm load during the last days of incubation ma
 
 ‘Imprinting’ of body functions under suboptimal environmental conditions could be a basis for the perinatal malprogramming of body functions, producing e.g., metabolic disorders and cardiovascular diseases as well as behavioural disorders during later life. It is known from studies in humans (e.g. development of obesity due to gestational maternal diabetes) as well as in poultry (e.g. development of Acites syndrome due to suboptimum incubation conditions).  
 
-April 2 – Dr. Vito Conte, Institute for Bioengineering of Catalonia: Traction and stress microscopy for cells: the wound healing case
+__April 2__ Dr. Vito Conte, Institute for Bioengineering of Catalonia  
+Traction and stress microscopy for cells: the wound healing case [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/VitoConte2014.pdf)
 
-April 9 – Dr. Zi Chen, Washington University, St. Louis, MO: How the Embryonic Chick Brain Twists
+A fundamental feature of multicellular organisms is their ability to self-repair wounds through the movement of epithelial cells into the damaged area1,2. This collective cellular movement is commonly attributed to a combination of cell crawling and “purse-string” contraction of a supracellular actomyosin ring3-4. Here we show by direct experimental measurement combining traction and stress microscopy that these two mechanisms are insufficient to explain force patterns observed during wound closure. Contrary to common assumptions, we found that actin and myosin accumulate at the leading edge in a heterogeneous mechanical structure that transmits part of its tension to the underlying substrate through focal adhesions. The orientation of these adhesions and the traction forces they transmit are mainly parallel to the wound edge and thus perpendicular to the direction of cell motion. This structural and mechanical organization provides cells with an unanticipated mechanism to close the wound by cooperatively compressing the underlying substrate.
+
+__April 9__ Dr. Zi Chen, Washington University, St. Louis, MO
+How the Embryonic Chick Brain Twists [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Chen2014.pdf)
+
 
 April 16 – Student Presentations
 
