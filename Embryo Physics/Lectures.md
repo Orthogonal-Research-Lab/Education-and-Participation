@@ -76,7 +76,16 @@ __April 9__ Dr. Zi Chen, Washington University, St. Louis, MO
 How the Embryonic Chick Brain Twists [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Chen2014.pdf)
 
 
-April 16 – Student Presentations
+__April 16__ Undergraduate Student Presentations
+Whitney Lee, Wayne State University  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Lee2014.pdf)  
+The Physics of Myelin  
+
+I’m a second year graduate student in the Center for Molecular Medicine at Wayne State University. I work in the lab of Dr Robert Skoff looking at the potential role of mitochondria in Pelizaeus-Merzbacher disease.
+
+Greg Moyerbrailean, Michigan State University  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Moyerbrailean2014.pdf)  
+The role of RNA-binding miRNAs in early embryogenesis  
+
+As an undergraduate at Michigan State University, I studied microbial genetics and quickly became enamored with the complexity of it all, from evolution to regulation. I also developed an interest in programming, and began working on projects that combined the two fields. When applying to PhD programs, I decided to focus my interests on human genetics and decided on Wayne State University’s Center of Molecular Medicine and Genetics for it’s translational focus. Currently I am a second-year PhD student working under Roger Pique-Regi and Francesca Luca, studying the impact of non-coding variation on gene expression and phenotype.
 
 ### 2013  
 January 9 – Richard Gordon: “Introduction to differentiation waves. Part 1”
