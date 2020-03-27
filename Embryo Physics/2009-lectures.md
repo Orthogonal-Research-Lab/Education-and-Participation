@@ -30,25 +30,24 @@ Effects of Microgravity on Cell Cytoskeleton and Embryogenesis [slides](https://
 The aim of this review is to compile, summarize and discuss the effects of microgravity on embryos, cell structure and function that have been demonstrated from data obtained during experiments performed in space or in altered gravity induced by clinostats. In cells and tissues cellular structure and genetic expression may be changed in microgravity and this has a variety of effects on embryogenesis which include death of the embryo, failure of neural tube closure, or final deformities to the overall morphology of the newborn or hatchling. Many species and protocols have been used for microgravity space experiments making it difficult to compare results. Experiments on the ways in which embryonic development and cell interactions occur in microgravity could also be performed. Experiments that have been done with cells in microgravity show changes in morphology, cytoskeleton and function. Changes in cytoskeleton have been noted and studies on microtubules in gravity have shown that they are gravity sensitive. Further study of basic chemical reactions that occur in cells should be done to shed some light on the underling processes leading to the changes that are observed in cells and embryos in microgravity.
 
 __May 28__ Vincent Fleury, Laboratoire Matière et Systèmes Complexes, CNRS-Université Paris-Diderot   
-Embryo Segmentation: a Mechano-Genetical Model [slides]()
+Embryo Segmentation: a Mechano-Genetical Model [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Fleury2009b.pdf) [related blogpost](http://embryogenesisexplained.rudnyi.ru/2009/02/scaling-the-vertebrate-embryo.html)
 
 
-__June 11__ William R. Buckley,  
-Self-Replication and Ontogeny in Machines [slides]()
+__June 11__ William R. Buckley, California Evolution Institute
+Self-Replication and Ontogeny in Machines [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009a.pdf) [related presentation 1](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009b.pdf) [related presentation 2](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2010.pdf)
 
 
-__June 18 and June 25__ Mike Danilchik,  
+__June 18 and June 25__ Michael V. Danilchik, Integrative Biosciences, School of Dentistry, Oregon Health & Science University
 Intrinsic Chirality Properties of the Xenopus Egg Cortex and Left-Right Asymmetry [slides]()
 
 
-__October 7__ Michael V. Danilchik,  
-Potential Long-distance Signaling by Blastocoel-traversing Thin Filopodia [slides]()
+__October 7__ Michael V. Danilchik, Integrative Biosciences, School of Dentistry, Oregon Health & Science University
+Potential Long-distance Signaling by Blastocoel-traversing Thin Filopodia [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Danilchik2009b.pdf)
 
 
+__November 11__ William R. Buckley, California Evolution Institute
+Machine Ontogeny: Part 2, A Partial Constructor [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009b.pdf)
 
-__November 11__ William R. Buckley,  
-Machine Ontogeny: Part 2, A Partial Constructor [slides]()
 
-
-__December 9__ Richard Gordon,  
-Given a Spherical Cow… What Do We Know About the Initial Symmetry of the Fertilized Egg? (Extending “The Hierarchical Genome and Differentiation Waves” 1.01) [slides]()
+__December 9__ Richard Gordon
+Given a Spherical Cow… What Do We Know About the Initial Symmetry of the Fertilized Egg? (Extending “The Hierarchical Genome and Differentiation Waves” 1.01) [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Gordon2009.pdf)
