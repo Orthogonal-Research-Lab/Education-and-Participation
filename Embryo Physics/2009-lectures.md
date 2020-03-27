@@ -42,9 +42,9 @@ Intrinsic Chirality Properties of the Xenopus Egg Cortex and Left-Right Asymmetr
 
 [Movie 1](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Movies/Movie1.mov) is a timelapse showing several normal Xenopus eggs go through fertilization, activation, surface contraction waves, and the first two cleavage cycles. At the beginning of the movie, eggs are held in random orientation because the egg surface is closely adherent to the surrounding vitelline (fertilization) envelope and a thick transparent layer of jelly. After fertilization, the egg surface becomes uncoupled from the vitelline envelope, and rights itself, pigmented animal pole up, because of buoyant density differences between the heavy yolk mass (in the unpigmented vegetal hemisphere) and the lighter, more fluid animal hemisphere. Fert to first cleavage: about 90 minutes. Second and third cleavages each 30 minutes long.
 
-Several movies of Xenopus gastrulation & neurulation can be found at http://www.xenbase.org/xenbase/original/atlas/movies.html
+Several movies of Xenopus gastrulation & neurulation are also available. [link](http://www.xenbase.org/xenbase/original/atlas/movies.html)  
 
-MovieWK belongs to Weaver & Kimelman (2003) and can be launched from Development site: http://dev.biologists.org/content/vol130/issue22/images/data/5425/DC1/Movie3.mov
+[MovieWK](http://dev.biologists.org/content/vol130/issue22/images/data/5425/DC1/Movie3.mov) belongs to Weaver & Kimelman (2003) and can be launched from the _Development_ website.  
 
 [Movie 2](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Movies/Movie2.mov), [Movie 3](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Movies/Movie3.mov), [Movie 4](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Movies/Movie4.mov): these three movies are first, second, and third cleavage cycles, respectively, of eggs exposed to inhibitor BDM (about 10 minutes before movie starts). The counterclockwise rotation of each active cleavage furrow is quite evident. Note also that the torsion only occurs while contractile ring is operating; in other words, earlier cleavage planes do not exhibit torsion.
 
