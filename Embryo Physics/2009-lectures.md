@@ -2,14 +2,14 @@
 ### January 29
 ##### Stuart A. Newman, New York Medical College, NYC  
 A Pattern Language for Animal Form  
-[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Newman2009.pdf) [related blogpost](http://embryogenesisexplained.rudnyi.ru/2010/11/the-origin-of-animal-eggs.html)
+[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Newman2009.pdf), [related blogpost](http://embryogenesisexplained.rudnyi.ru/2010/11/the-origin-of-animal-eggs.html)
 
 This talk considers the role played by a core set of “dynamical patterning modules” (DPMs) in the origination, development and evolution of complex organisms. These consist of the products of a subset of the genes of what has come to be known as the “developmental-genetic toolkit” in association with physical processes they mobilize. The physical processes are those characteristic of chemically and mechanically excitable mesoscopic systems like cell aggregates: cohesion, viscoelasticity, diffusion, spatiotemporal heterogeneity based on activator-inhibitor interaction, and multistable and oscillatory dynamics. We focus on the emergence of the Metazoa, and show how toolkit gene products and pathways that pre-existed the metazoans acquired novel morphogenetic functions simply by virtue of the change in scale and context inherent to multicellularity. We propose that DPMs, acting singly and in combination with each other, constitute a “pattern language” capable of generating all metazoan body plans and organ forms. This concept implies that the multicellular organisms of the late Precambrian-early Cambrian were phenotypically plastic, fluently exploring morphospace in a fashion decoupled from both function-based selection and genotypic change. The relatively stable developmental trajectories and morphological phenotypes of modern organisms, then, are considered to be products of stabilizing selection. This perspective solves the apparent “molecular homology-analogy paradox,” whereby widely divergent modern animal types utilize the same molecular toolkit during development, but it does so by inverting the neo-Darwinian principle that phenotypic disparity was generated over long periods of time in concert with, and in proportion to genotypic change.
 
 ### February 12
 ##### Vincent Fleury, Laboratoire Matière et Systèmes Complexes @ CNRS-Université Paris-Diderot   
 Scaling the Vertebrate Embryo from the Ovocyte Upwards, via Hydrodynamic Flow: Consequence for Evolutionary Constraints  
-[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Fleury2009a.pdf) [related blogpost](http://embryogenesisexplained.rudnyi.ru/2009/05/embryo-segmentation-a-mechano-genetical-model.html)
+[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Fleury2009a.pdf), [related blogpost](http://embryogenesisexplained.rudnyi.ru/2009/05/embryo-segmentation-a-mechano-genetical-model.html)
 
 
 ### February 26
@@ -42,12 +42,12 @@ The aim of this review is to compile, summarize and discuss the effects of micro
 ### May 28
 ##### Vincent Fleury, Laboratoire Matière et Systèmes Complexes @ CNRS-Université Paris-Diderot   
 Embryo Segmentation: a Mechano-Genetical Model  
-[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Fleury2009b.pdf) [related blogpost](http://embryogenesisexplained.rudnyi.ru/2009/02/scaling-the-vertebrate-embryo.html)
+[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Fleury2009b.pdf), [related blogpost](http://embryogenesisexplained.rudnyi.ru/2009/02/scaling-the-vertebrate-embryo.html)
 
 ### June 11
 ##### William R. Buckley, California Evolution Institute  
 Self-Replication and Ontogeny in Machines  
-[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009a.pdf) [related presentation 1](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009b.pdf) [related presentation 2](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2010.pdf)
+[slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009a.pdf), [related presentation 1](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009b.pdf), [related presentation 2](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2010.pdf)
 
 
 ### June 18 and June 25
