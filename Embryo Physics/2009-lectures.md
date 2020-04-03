@@ -46,7 +46,7 @@ Embryo Segmentation: a Mechano-Genetical Model
 [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Fleury2009b.pdf), [related blogpost](http://embryogenesisexplained.rudnyi.ru/2009/02/scaling-the-vertebrate-embryo.html)
 
 ### June 11
-#### William R. Buckley, California Evolution Institute  
+#### William R. Buckley, California Evolution Institute, San Francisco
 Self-Replication and Ontogeny in Machines  
 [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009a.pdf), [related presentation 1](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2009b.pdf), [related presentation 2](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Buckley2010.pdf)
 
