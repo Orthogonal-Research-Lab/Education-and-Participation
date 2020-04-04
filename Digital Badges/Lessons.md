@@ -4,4 +4,6 @@
 
 ### Peer Review (I, II, and Data) [link](https://www.badgelist.com/Orthogonal-Research/tags/peer-review)  
 
-### Literature Mining (I and II) [link](https://www.badgelist.com/Orthogonal-Research/tags/lit-mining)  
+### Literature Mining (I and II) [link](https://www.badgelist.com/Orthogonal-Research/tags/lit-mining) 
+
+### 3-D Power Point Design [link](https://www.badgelist.com/Orthogonal-Research/3-D-Power-Point-Design) 
