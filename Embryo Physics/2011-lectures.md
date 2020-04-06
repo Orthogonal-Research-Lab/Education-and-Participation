@@ -13,7 +13,7 @@ The importance of parental guidance: lessons from modeling the self organization
 Can one use the notion of ground state for the description of a living cell?
 
 ### November 16  
-#### Bruce Damer, 
+#### Bruce Damer, Digital Space Commons
 The EvoGrid: An Approach to Computational Origins of Life Endeavours
 
 ### November 23 
