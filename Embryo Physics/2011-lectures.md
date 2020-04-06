@@ -1,18 +1,37 @@
-### 2011  
-19 October 2011 – G. Wayne Brodland, University of Waterloo, Video Force Microscopy: A technique that allows the forces driving morphogenetic movements to be determined from time-lapse images
+## 2011  
 
-26 October 2011 – Eva Deinum, The importance of parental guidance: lessons from modeling the self organization of the plant cortical microtubule array
+### October 19 
+### G. Wayne Brodland, University of Waterloo, Waterloo, Ontario
+Video Force Microscopy: A technique that allows the forces driving morphogenetic movements to be determined from time-lapse images
 
-2, 9 November 2011 – Vasily Ogryzko, CNRS UMR-8126, Universite Paris-sud, Can one use the notion of ground state for the description of a living cell?
+### October 26
+### Eva Deinum, 
+The importance of parental guidance: lessons from modeling the self organization of the plant cortical microtubule array
 
-16 November 2011 – Bruce Damer, The EvoGrid: An Approach to Computational Origins of Life Endeavours
+### November 2 and 9 
+### Vasily Ogryzko, CNRS UMR-8126, Universite Paris-sud
+Can one use the notion of ground state for the description of a living cell?
 
-23 November 2011 – Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory, Walking the tightrope: The dilemmas of hierarchical instabilities in Turing’s morphogenesis
+### November 16  
+### Bruce Damer, 
+The EvoGrid: An Approach to Computational Origins of Life Endeavours
 
-30 November 2011 – David Holloway, British Columbia Institute of Technology, Chemical pattern formation and plant morphogenesis: controlling branching via reaction-diffusion dynamics
+### November 23 
+### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
+Walking the tightrope: The dilemmas of hierarchical instabilities in Turing’s morphogenesis
 
-7 December 2011 – Bradley Alicea, Michigan State University, Biocomplexity of Inducible Cells
+### November 30 
+### David Holloway, British Columbia Institute of Technology
+Chemical pattern formation and plant morphogenesis: controlling branching via reaction-diffusion dynamics  
 
-14 December 2011 – Steve Levin, No matter how much you guys and gals talk about stochastic events, the rules of structure make whatever happens deterministic to a surprising degree
+### December 7 
+### Bradly Alicea, Michigan State University, East Lansing, Michigan
+Biocomplexity of Inducible Cells
 
-21 December 2011 – Ryan Kerney, The timing of bone formation in frog skulls  
+### December 14
+### Steve Levin, 
+No matter how much you guys and gals talk about stochastic events, the rules of structure make whatever happens deterministic to a surprising degree
+
+### December 21
+### Ryan Kerney, 
+The timing of bone formation in frog skulls  
