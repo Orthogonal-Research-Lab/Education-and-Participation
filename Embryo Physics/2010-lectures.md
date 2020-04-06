@@ -1,6 +1,6 @@
 ## 2010 
 ### January 6  
-#### Richard Gordon
+#### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 Whence Epigenesis? (Extending “The Hierarchical Genome and Differentiation Waves” §1.02) 
 [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Gordon2010jan.pdf)  
 
@@ -30,7 +30,7 @@ Is there a development at play at the cosmological scale? Teilhard de Chardin su
 
 
 ### February 24
-#### Richard Gordon  
+#### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 Wholeness & Embryogenesis, Part 1 (Extending “The Hierarchical Genome and Differentiation Waves” §1.03, 1.04, 1.05)   [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Gordon2010feb.pdf)   
 
 
@@ -61,16 +61,16 @@ Stress/Diffusion Dependent Morphogenesis
 
 ### May 26  
 #### Jose J Muñoz,
-#### Natalie K. Björklund,
-#### Richard Gordon, 
+#### Natalie K. Björklund-Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
+#### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 Notes from Barcelona  
 
 ### June 16  
-#### Akhlesh Lakhtakia  
+#### Akhlesh Lakhtakia, Engineering Science and Mechanics @ Penn State University
 Sculptured Thin Films: Nanoengineered Metamaterials  
 
 ### June 30
-#### Richard Gordon  
+#### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 A Tale of Two Papers  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Gordon2010june.pdf)  
 
 ### July 7
@@ -87,7 +87,7 @@ The lecture presents evidence for the presence of this novel phase of water, and
 
 
 ### July 21
-#### Natalie K. Björklund-Gordon, 
+#### Natalie K. Björklund-Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 The Evolution of the Cell State Splitter: Motility to embryogenesis
 
 
@@ -97,17 +97,17 @@ Lazy Constructors  [slides](https://github.com/Orthogonal-Research-Lab/Education
 
 
 ### August 18
-#### Ute Deichmann, 
+#### Ute Deichmann, University of Cologne, Germany and Ben-Gurion University, Israel
 Experimental biology, evolution, and artificially creating life around 1900: Research and reflections by Jacques Loeb
 
 
 ### September 22
-#### Evgenii Rudnyi, 
+#### Evgenii Rudnyi, University of Freiburg, Germany
 Introduction to Finite Element Simulation
 
 
 ### September 29
-#### Kai Lu, 
+#### Kai Lu, Institute for Integrated Cell–Material Sciences @ Kyoto University, Japan
 Mechanical control and stem cell fate decision  
 
 
