@@ -29,7 +29,7 @@ The rise of the digital age in the last quarter of the 20th Century birthed a ne
 Virtual worlds pioneer Bruce Damer will present a forty year overview of the virtual world as an emerging medium of human presence and then project forward another few decades with his best guess at how this presence will extend from inside CyberSpace out to StreetSpace, into OuterSpace and finally, up to BioSpace. He will illustrate this vision with his and others’ work in online virtual environments, wearable sensored computing tied to online identity, the simulation of living systems, evolution and the quest for the origin of life, and the use of virtual worlds to design new NASA missions throughout the solar system.  
 
 ### April 9
-#### Richard Gordon
+#### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 Microtubules and Left/Right Asymmetry of Amphibian Embryos  
 [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Gordon2009Microtubules.pdf)
 
@@ -85,6 +85,6 @@ Machine Ontogeny: Part 2, A Partial Constructor
 
 
 ### December 9
-#### Richard Gordon  
+#### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 Given a Spherical Cow… What Do We Know About the Initial Symmetry of the Fertilized Egg? (Extending “The Hierarchical Genome and Differentiation Waves” 1.01)  
 [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Gordon2009.pdf)
