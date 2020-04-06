@@ -29,7 +29,7 @@ Chemical pattern formation and plant morphogenesis: controlling branching via re
 Biocomplexity of Inducible Cells
 
 ### December 14
-#### Steve Levin, 
+#### Steven M. Levin, Ezekiel Biomechanics Group, McLean, VA  
 No matter how much you guys and gals talk about stochastic events, the rules of structure make whatever happens deterministic to a surprising degree
 
 ### December 21
