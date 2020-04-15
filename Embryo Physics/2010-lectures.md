@@ -105,7 +105,7 @@ The lecture presents evidence for the presence of this novel phase of water, and
 
 ### July 21
 #### Natalie K. Björklund-Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
-The Evolution of the Cell State Splitter: Motility to embryogenesis
+The Evolution of the Cell State Splitter: Motility to embryogenesis  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Bjoerklund-Gordon2010.pdf) 
 
 
 ### August 11
@@ -115,17 +115,20 @@ Lazy Constructors  [slides](https://github.com/Orthogonal-Research-Lab/Education
 
 ### August 18
 #### Ute Deichmann, University of Cologne, Germany and Ben-Gurion University, Israel
-Experimental biology, evolution, and artificially creating life around 1900: Research and reflections by Jacques Loeb
+Experimental biology, evolution, and artificially creating life around 1900: Research and reflections by Jacques Loeb    [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Deichmann2010.pdf)  
 
+Dissatisfied with the descriptive and speculative methods of evolutionary biology of his time, the physiologist Jacques Loeb (1859–1924), best known for his “engineering” approach to biology, reflected on the possibilities of artificially creating life in the laboratory. With the objective of experimentally tackling one of the crucial questions of organic evolution, i.e., the origin of life from inanimate matter, he rejected claims made by contemporary scientists of having produced artificial life through osmotic growth processes in inorganic salt solutions. According to Loeb, the answer to the question of whether or not life could be created artificially had to come from macromolecular chemistry, in particular from the research on the recently discovered DNA. He was convinced that a prerequisite for making living matter from inanimate substances was the chemical synthesis of nuclear material capable of selfreplication. Moreover, Loeb, experimentally refuting some vitalistic explanations as well as colloidal chemists’ far-reaching claims that biologically relevant macromolecules follow colloidal rather than chemical laws, pioneered research on the physical and chemical explanations of biological phenomena.
 
 ### September 22
 #### Evgenii Rudnyi, University of Freiburg, Germany
-Introduction to Finite Element Simulation
+Introduction to Finite Element Simulation  [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Rudnyi2010.pdf)  
+
+In this talk, short introduction to numerical solution of partial differential equation from an engineering viewpoint is given. We start with different discretization schemes, discuss numerical errors and then consider typical simulation process with modern simulation software. Finally we discuss system simulation.
 
 
 ### September 29
 #### Kai Lu, Institute for Integrated Cell–Material Sciences @ Kyoto University, Japan
-Mechanical control and stem cell fate decision  
+Mechanical control and stem cell fate decision   [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Lu2010.pdf)
 
 
 ### October 20, 2010
@@ -137,10 +140,13 @@ Living systems use information and energy to maintain stable entropy in a system
 
 ### November 10
 #### Stuart A. Newman,   
-The origin of animal eggs and the ‘embryonic hourglass’: a new (joint) interpretation  
+The origin of animal eggs and the ‘embryonic hourglass’: a new (joint) interpretation   [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Newman2010.pdf)  
 
+The evolutionary origin of the egg stage of animal development presents several difficulties for conventional developmental and evolutionary narratives. If the egg’s internal organization represents a template for key features of the developed organism, why can taxa within a given phylum exhibit very different egg types, pass through a common intermediate morphology (the so-called “phylotypic stage”), only to diverge again, thus exemplifying the embryonic “hourglass”? Moreover, if different egg types typically represent adaptations to different environmental conditions, why do birds and mammals, for example, have such vastly different eggs with respect to size, shape, and postfertilization dynamics, whereas all these features are more similar for ascidians and mammals? Here, I consider the possibility that different body plans had their origin in self-organizing physical processes in ancient clusters of cells, and suggest that eggs represented a set of independent evolutionary innovations subsequently inserted into the developmental trajectories of such aggregates. I first describe how “dynamical patterning modules” (DPMs) associations between components of the metazoan developmental-genetic toolkit and certain physical processes and effects may have organized primitive animal body plans independently of an egg stage. Next, I describe how adaptive specialization of cells released from such aggregates could have become “proto-eggs,” which regenerated the parental cell clusters by cleavage, conserving the characteristic DPMs available to a lineage. Then, I show how known processes of cytoplasmic reorganization following fertilization are often based on spontaneous, self-organizing physical effects (“egg-patterning processes”: EPPs). I suggest that rather than acting as developmental blueprints or prepatterns, the EPPs refine the phylotypic body plans determined by the DPMs by setting the boundary and initial conditions under which these multicellular patterning mechanisms operate. Finally, I describe how this new perspective provides a resolution to the embryonic hourglass puzzle.
 
 ### November 24  
 #### Martin Hanczyc, Department of Physics and Chemistry @ University of Southern Denmark  
 #### Takashi Ikegami   
-Chemical Basis for Minimal Cognition   
+Chemical Basis for Minimal Cognition    [slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/HanczycIkegami2010.pdf)  
+
+We have developed a simple chemical system capable of self-movement in order to study the physicochemical origins of movement. We propose how this system may be useful in the study of minimal perception and cognition. The system consists simply of an oil droplet in an aqueous environment. A chemical reaction within the oil droplet induces an instability, the symmetry of the oil droplet breaks, and the droplet begins to move through the aqueous phase. The complement of physical phenomena that is then generated indicates the presence of feedback cycles that, as will be argued, form the basis for self-regulation, homeostasis, and perhaps an extended form of autopoiesis. We discuss the result that simple chemical systems are capable of sensory-motor coupling and possess a homeodynamic state from which cognitive processes may emerge.
