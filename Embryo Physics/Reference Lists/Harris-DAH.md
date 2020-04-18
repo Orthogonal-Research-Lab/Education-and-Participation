@@ -26,22 +26,22 @@
 
 13) Ingber, D.E. (1997)  Tensegrity: the architectural basis of cellular mecahnotransduction.  Annu. Reb. Physiol. 59, 575-599
 
-Krieg, M., Arboleda-Estudillo, Y., Puech, P.H., Käfer, J., Graner, F., Müller, D.J., and Heisenberg, C.-P. (2008).  Tensile forces govern germ-layer organization in zebrafish.  Nat. Cell Biol. 10, 429-436.
+14) Krieg, M., Arboleda-Estudillo, Y., Puech, P.H., Käfer, J., Graner, F., Müller, D.J., and Heisenberg, C.-P. (2008).  Tensile forces govern germ-layer organization in zebrafish.  Nat. Cell Biol. 10, 429-436.
 
-Levin, S.M. (2002).  The tensegrity-truss as a model for spine mechanics: Biotensegrity.  J. Mech. Med. Biol. 2, 3750 .
+15) Levin, S.M. (2002).  The tensegrity-truss as a model for spine mechanics: Biotensegrity.  J. Mech. Med. Biol. 2, 3750 .
 
-Phillips, H.M., and Steinberg, M.S. (1978). Embryonic tissues as elasticoviscous liquids.  I. Rapid and slow shape changes in centrifuged cell aggregates.  J. Cell Sci. 30, 1-20.
+16) Phillips, H.M., and Steinberg, M.S. (1978). Embryonic tissues as elasticoviscous liquids.  I. Rapid and slow shape changes in centrifuged cell aggregates.  J. Cell Sci. 30, 1-20.
 
-Phillips, H.M., Steinberg, M.S., and Lipton, B.H. (1977). Embryonic tissues as elasticoviscous liquids.  II. Direct evidence for cell slippage in centrifuged aggregates.  Dev. Biol. 59, 124-134.
+17) Phillips, H.M., Steinberg, M.S., and Lipton, B.H. (1977). Embryonic tissues as elasticoviscous liquids.  II. Direct evidence for cell slippage in centrifuged aggregates.  Dev. Biol. 59, 124-134.
 
-Puech, P.-H., Taubenberger, A., Ulrich, F., Krieg, M., Muller, D.J., and Heisenberg, C.-P. (2005).  Measuring cell adhesion forces of primary gastrulating cells from zebrafish using atomic force microscopy.  J. Cell Sci. 118, 4199-4206.
+18) Puech, P.-H., Taubenberger, A., Ulrich, F., Krieg, M., Muller, D.J., and Heisenberg, C.-P. (2005).  Measuring cell adhesion forces of primary gastrulating cells from zebrafish using atomic force microscopy.  J. Cell Sci. 118, 4199-4206.
 
-Steinberg, M.S. (1963). Reconstruction of tissues by dissociated cells. Some morphogenetic tissue movements and the sorting out of embryonic cells may have a common explanation.  Science 141, 401-408.
+19) Steinberg, M.S. (1963). Reconstruction of tissues by dissociated cells. Some morphogenetic tissue movements and the sorting out of embryonic cells may have a common explanation.  Science 141, 401-408.
 
-Steinberg, M.S. (1970). Does differential adhesion govern self-assembly processes in histogenesis? Equilibrium configurations and the emergence of a hierarchy among populations of embryonic cells. J. Exp. Zool. 173, 395-433.
+20) Steinberg, M.S. (1970). Does differential adhesion govern self-assembly processes in histogenesis? Equilibrium configurations and the emergence of a hierarchy among populations of embryonic cells. J. Exp. Zool. 173, 395-433.
 
-Steinberg, M.S., and Takeichi, M. (1994).  Experimental specification of cell sorting, tissue spreading, and specific spatial patterning by quantitative differences in cadherin expression.  Proc. Natl. Acad. Sci. USA 91, 206-209.
+21) Steinberg, M.S., and Takeichi, M. (1994).  Experimental specification of cell sorting, tissue spreading, and specific spatial patterning by quantitative differences in cadherin expression.  Proc. Natl. Acad. Sci. USA 91, 206-209.
 
-Takeichi, M. (1988).  The cadherins: cell-cell adhesion molecules controlling animal morphogenesis.  Development 102, 639-655.
+22) Takeichi, M. (1988).  The cadherins: cell-cell adhesion molecules controlling animal morphogenesis.  Development 102, 639-655.
 
-Weiss, P. (1961). Guiding principles in cell locomotion and cell aggregation.  Exp. Cell Res. 8(suppl.), 260-281.
+23) Weiss, P. (1961). Guiding principles in cell locomotion and cell aggregation.  Exp. Cell Res. 8(suppl.), 260-281.
