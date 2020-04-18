@@ -1,12 +1,12 @@
 ### References
 
-1.       Gordon, R.; Brodland, G.W. The cytoskeletal mechanics of brain morphogenesis. Cell state splitters cause primary neural induction. Cell Biophys 1987, 11, 177-238.  
+1) Gordon, R.; Brodland, G.W. The cytoskeletal mechanics of brain morphogenesis. Cell state splitters cause primary neural induction. Cell Biophys 1987, 11, 177-238.  
 
-2.       Martin, C.C.; Gordon, R. Ultrastructural analysis of the cell state splitter in ectoderm cells differentiating to neural plate and epidermis during gastrulation in embryos of the axolotl Ambystoma mexicanum. Russian J. Dev. Biol. 1997, 28, 71-80.  
+2) Martin, C.C.; Gordon, R. Ultrastructural analysis of the cell state splitter in ectoderm cells differentiating to neural plate and epidermis during gastrulation in embryos of the axolotl Ambystoma mexicanum. Russian J. Dev. Biol. 1997, 28, 71-80.  
 
-3.       Brodland, G.W.; Gordon, R.; Scott, M.J.; Björklund, N.K.; Luchka, K.B.; Martin, C.C.; Matuga, C.; Globus, M.; Vethamany-Globus, S.; Shu, D. Furrowing surface contraction wave coincident with primary neural induction in amphibian embryos. J. Morphol. 1994, 219, 131-142.  
+3) Brodland, G.W.; Gordon, R.; Scott, M.J.; Björklund, N.K.; Luchka, K.B.; Martin, C.C.; Matuga, C.; Globus, M.; Vethamany-Globus, S.; Shu, D. Furrowing surface contraction wave coincident with primary neural induction in amphibian embryos. J. Morphol. 1994, 219, 131-142.  
 
-4.       Gordon, R. The Hierarchical Genome and Differentiation Waves: Novel Unification of Development, Genetics and Evolution; World Scientific & Imperial College Press: Singapore & London, 1999.  
+4) Gordon, R. The Hierarchical Genome and Differentiation Waves: Novel Unification of Development, Genetics and Evolution; World Scientific & Imperial College Press: Singapore & London, 1999.  
 
 5.       Gordon, R.; Björklund, N.K. How to observe surface contraction waves on axolotl embryos. Int J Dev Biol 1996, 40, 913-914.  
 
