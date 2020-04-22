@@ -1,4 +1,8 @@
 ## 2011  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Media/2011-2013.png"><BR>
+</p>
+  
 
 ### October 19 
 #### G. Wayne Brodland, University of Waterloo, Waterloo, Ontario
