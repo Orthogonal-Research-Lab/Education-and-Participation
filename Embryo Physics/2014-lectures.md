@@ -1,4 +1,9 @@
 ### 2014  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Media/2014.png"><BR>
+</p>
+  
+
 ### January 8
 #### Stephen A. Krawetz, OB/Gyn and Molecular Medicine & Genetics @ Wayne State University School of Medicine, Detroit  
 When the Sperm meets the Egg: a structural and genomic perspective  
