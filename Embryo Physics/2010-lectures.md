@@ -1,4 +1,9 @@
 ## 2010 
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Media/2010.png"><BR>
+</p>
+ 
+
 ### January 6  
 #### Richard Gordon, University of Manitoba & Gulf Specimen Marine Laboratory
 Whence Epigenesis? (Extending “The Hierarchical Genome and Differentiation Waves” §1.02) 
