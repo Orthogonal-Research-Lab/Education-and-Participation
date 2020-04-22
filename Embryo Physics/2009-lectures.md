@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Media/2009.png"><BR>
 </p>
+  
+
 ### January 29
 #### Stuart A. Newman, New York Medical College, NYC  
 A Pattern Language for Animal Form  
