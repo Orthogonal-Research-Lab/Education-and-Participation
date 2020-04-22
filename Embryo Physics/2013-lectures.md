@@ -1,4 +1,9 @@
-## 2013  
+## 2013 
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Media/2011-2013.png"><BR>
+</p>
+
+
 ### January 9
 #### Richard Gordon
 Introduction to differentiation waves. Part 1  
