@@ -1,4 +1,9 @@
 ## 2012
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Media/2012.png"><BR>
+</p>
+  
+
 ### January 11 
 #### Timothy Newman, University of Dundee, UK
 Modelling active cell processes in multicellular sheets  
