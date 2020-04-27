@@ -144,7 +144,7 @@ Problem Number One is embryonic regulation, discovered more than a century ago b
 
 ### April 17
 #### Rob Ninowski
-Introduction to cybernetics  
+Introduction to Cybernetics  
 [Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Ninowski2013.pdf)
 
 This talk will give a historical overview of the emergence and design of Cybernetics as an approach to a variety of problems confronting science and philosophy in the early 20th century. It will examine the processes which led to it’s coalescing, and it’s continued development and integration with extant structures since. It will end with a short discussion on what cybernetic study has revealed philosophically and scientifically, and possible applications for the future.
