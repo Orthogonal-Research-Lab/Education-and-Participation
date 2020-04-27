@@ -9,5 +9,5 @@ For more details: Gordon, R. (2013). [Conception and development of the Second L
 
 <p align="center">
   <img src="https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Media/original-setting.png"><BR>
-Original settign for Embryo Physics lecture series. For Figure 1 in _Systems Biology in Reproductive Medicine_, 59(3), 131-139.
+  Original setting for Embryo Physics lecture series. For Figure 1 in <i>Systems Biology in Reproductive Medicine</i>, 59(3), 131-139.
 </p>
