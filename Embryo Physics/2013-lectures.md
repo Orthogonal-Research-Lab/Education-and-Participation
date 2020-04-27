@@ -92,36 +92,69 @@ A very different explanation (Richard Gordon and Natalie Björklund) is that con
 
 ### February 27
 #### Eluem Blyden
-The encodon and the parallels between embryogenesis and the making of proteins
+The encodon and the parallels between embryogenesis and the making of proteins  
+
+The ENCODON model of gene expression allows some new perspectives on the relationship between DNA, RNA and Protein and how genetic information becomes structure and function in the cell. A survey of the model is presented and its application to influenza is used to show its operation in an evolutionary context.  
 
 ### March 6
 #### Kai Lu
-Chromatin and epigenome in relation to embryogenesis and stem cell differentiation
+Chromatin and epigenome in relation to embryogenesis and stem cell differentiation  
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Lu2013.pdf)     
+How do embryonic cells differentiate into various cell types during development? The answer is perhaps related to epigenetics—chromatin mechanisms contributing to selective expression of the genome. Spatiotemporal implementation of the epigenetic machinery within the nucleus, e.g. DNA methylation and histone modifications, is not well understood. Importantly, the cause and effect relationship between “the epigenetics” and development is not clear. As an in vitro model for the blastocyst-stage embryo, pluripotent stem cells provide another platform—beside using “real” embryos—to investigate such problems. Here I will attempt to review: How “the epigenetic landscape” has been described in greater details in recent decade(s), by introducing existing knowledge gained from either the embryo or stem cells.
 
 ### March 13
 #### Clément Vidal
-The starivore hypothesis: why the galaxy may be teeming with (post)biology
+The starivore hypothesis: why the galaxy may be teeming with (post)biology    
+Chromatin and epigenome in relation to embryogenesis and stem cell differentiation  
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Vidal2013.pdf), [Open Dissertation](http://arxiv.org/abs/1301.1648) 
+
+This talk proposes a new concrete hypothesis to assess the existence of advanced extraterrestrial life. I first point out two methodological fallacies, *naturality-of-the-gaps* and * artificiality-of-the-gaps* and propose a more balanced *astrobiological stance*, which does not prejudices the naturality or artificiality of suspicious phenomena we observe. I point out many limiting and implicit assumptions in SETI, in order to propose a “Zen SETI”, thus opening the search space. In particular, I outline the case for postbiological evolution, or the probable transition of life to another organizational paradigm than biochemistry. I then discuss criteria to distinguish natural from artificial phenomena, starting with global criteria (*strangeness heuristic* and *inverse distance-development principle*); then thermodynamical criteria (*thermodynamic disequilibrium* and *energy flow control*); and finally present living systems criteria (Miller’s nineteen critical functional subsystems). Then I introduce a two-dimensional metric for civilizational development, using the Kardashev scale of energy consumption increase and the Barrow scale of inward manipulation. Taken together, these two civilizational development trends lead to an argument that some existing binary stars may actually be advanced extraterrestrials. Since those putative beings actively feed on stars, I call them *starivores*. I elaborate another independent thermodynamical argument for their existence, with a metabolic interpretation of some binary stars in accretion. I further substantiate the hypothesis with a tentative living systems interpretation. Ten critical living subsystems are suggested to apply to interacting binaries composed of a primary white dwarf, neutron star or black hole. I critically discuss the hypothesis by formulating and replying objections. The question of artificiality remains open, but I propose four concrete research proposals and a prize to further continue and motivate the scientific assessment of this hypothesis.
 
 ### March 20
 #### Terrence Deacon
-Autogenesis: From Constraint to Regulation
+Autogenesis: From Constraint to Regulation   
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Deacon2013.pdf)
+
+The origin of living dynamics required an evasion of second law degradation effects by maintaining critical dynamical and structural constraints. This is accomplished by synthesizing new components for replacement and reproduction and regulating these interactions with respect to critical intrinsic requirements and extrinsic conditions. Model systems for life’s origin that primarily focus on molecular replication (e.g. RNA-world), or co-production of components (e.g. autocatalysis, hypercycles, autopoiesis), or physical containment of molecular interactions (e.g. protocells) fail to distinguish between constrained chemistry and regulated metabolism. For this reason they do not address the question of how living processes first emerge from simpler constraints on molecular interactions. And those models that merely assume all three of these features (e.g. chemoton) both fail to address the origin of this complexity and how it is regulated. I begin with a simple molecular model system consisting of coupled reciprocal catalysis and self-assembly in which one of the catalytic bi-products tends to spontaneously self-assemble into a containing shell (analogous to a viral capsule). I term this dynamical relationship autogenesis because it is self-reconstituting in response to degradation. Self-reconstitution (and reproduction) is made possible by the fact that each of these linked self-organizing processes generates boundary constraints that promote and limit the other, and because this synergy thereby becomes embodied as a persistent rate-independent and substrate-indifferent higher order constraint on component constraint generation processes. It is proposed that this formal synergy is necessary and sufficient to constitute regulation as opposed to mere constraint. Two minor elaborations of this simple model system demonstrate that this simplest form of regulation can be the foundation for the evolution of two higher-order forms: cybernetic and template-based regulation.
 
 ### March 27
 #### Bradly Alicea
-Multiscale Integration and Heuristics of Complex Physiological Phenomena
+Multiscale Integration and Heuristics of Complex Physiological Phenomena  
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Alicea2013.pdf)
+
+How do you define a complex organism and its behavior? This question was discussed during the HTDE 2012 workshop, during which a range of “hard-to-define” events and ways to define, model, and analyze them were explored. In this talk (a revisiting of talk given at HTDE 2012), I will address how complexity at multiple scales can be understood and perhaps even measured in a way that brings to bear novel approaches and perhaps a new understanding of this complexity.
+
+Understanding physiological and other biological systems as complex multiscale phenomena has applications to the study of physiological hierarchies, leaderless collective behaviors, and emergent biological processes with multiple scales. This lecture will feature examples from neurobehavioral systems, brain-machine interfaces, functional physiology, social complexity, and embryogenesis. Taken collectively, they illustrate the challenges and opportunities for a multiscale approach.
+
+We will also explore current and potential methods for modeling and representing multiscale systems, including: hybrid models, scale linking, homogenization and extremes, trophic models, and multiscale decision-making. Particularly, we will focus on the emergence of biological scale, which leads us to a new set of principles (trophic organization and open-ended, first-mover evolution) for the self-organization of biological hierarchies in development and evolution.  
 
 ### April 3
 #### Evgenii Rudnyi
-Does Entropy Play a Role in Biology?
+Does Entropy Play a Role in Biology?  
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Rudnyi2013.pdf)
+
+I worked in chemical thermodynamics for more than 15 years and I know how the thermodynamic entropy is used to solve practical problems.  On the other hand, in biology the term “entropy” is often associated with information and evolution. The goal of the talk is to make a short introduction to thermodynamics in order to show what is the original meaning of the thermodynamic entropy and how it is employed by chemists to compute equilibrium composition. After that, I discuss the relationship between the thermodynamic entropy and information and show that there is no information as such in the thermodynamic entropy. Finally, I discuss non-equilibrium thermodynamics and if there could be a connection between the entropy and evolution.  
 
 ### April 10
 #### Albert Harris
-A List of Thirteen Unsolved Problems of Embryology
+A List of Thirteen Unsolved Problems of Embryology  
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Harris2013d.pdf)
+
+Problem Number One is embryonic regulation, discovered more than a century ago by Hans Driesch, and never yet solved. Number Two is the consistency and regularity of most anatomical shapes. Number Three is whether any example has been found in which any reaction-diffusion system, such as was proposed by Alan Turing, has ever been proven to control an actual anatomical pattern. Number Four is the molecular mechanism that controls cell differentiation, “turning on” blocks of unlinked genes so as to produce each of our bodies’ 250 differentiated cell types. The Fifth Problem is whether fibroblast traction really is the normal cause of tendon formation, and other cases of collagen fiber realignment and packing. The Sixth Problem is the control of Hox gene formation, and especially the colinearity problem (arrangement of Hox gene DNA on chromosomes in the same spatial order as these genes are transcribed along the anterior-posterior axis of the embryonic body). The Seventh Problem is the cause of somite formation, and how somites control locations of segmentation of sensory and motor nerves, vertebrae, ribs, and other segmental anatomy. The Eighth Problem is how bone mineral is deposited, and how this deposition changes in response to different physical loads. This includes the medical problem of osteoporosis, and also the demineralization of astronauts’ bones. The Ninth Problem is how to explain galvanotaxis of tissue cells, both in cause and function. The Tenth Problem is how to transmit shearing force tangentially through fluid mosaic membranes of cells. The Eleventh Problem is how salamanders can regenerate legs but people cannot. This includes the question whether regeneration is by geometric rearrangement of cells that do not change their differentiated states. The Twelfth Problem is the explanation and cure of autoimmunity, as in multiple sclerosis and lupus, and the Thirteenth Problem is why cancer chemotherapy drugs work as well as they do, considering cancer cells don’t really grow faster but the drugs are mostly designed to kill fast-growing cells. This list is preceded by discussion of a series of five common misconceptions that hold back progress, starting with the mistaken idea that growth itself contributes significantly to organ shape.
 
 ### April 17
 #### Rob Ninowski
-Introduction to cybernetics
+Introduction to cybernetics  
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Ninowski2013.pdf)
+
+This talk will give a historical overview of the emergence and design of Cybernetics as an approach to a variety of problems confronting science and philosophy in the early 20th century. It will examine the processes which led to it’s coalescing, and it’s continued development and integration with extant structures since. It will end with a short discussion on what cybernetic study has revealed philosophically and scientifically, and possible applications for the future.
+
+“There is nothing distinctively scientific about the hypotheticodeductive process. It is not even distinctively intellectual. It is merely a scientific context for a much more general stratagem that underlies almost all regulative processes or processes of continuous control, namely feedback, the control of performance by the consequences of the act performed. In the hypotheticodeductive scheme the inferences we draw from a hypothesis are, in a sense, its logical output. If they are true, the hypothesis need not be altered, but correction is obligatory if they are false. The continuous feedback from inference to hypothesis is implicit in Whewell’s account of scientific method; he would not have dissented from the view that scientific behaviour can be classified as appropriately under cybernetics as under logic.“ Peter Manewar  
+
 
 ### April 24
 #### Alexis Pietak
-Resonance and Plant Morphogenesis
+Resonance and Plant Morphogenesis  
+[Slides](https://github.com/Orthogonal-Research-Lab/Education-and-Participation/blob/master/Embryo%20Physics/Presentations/Pietak2013a.pdf)  
+
+There’s a wealth of pattern in plant form, yet relatively little understanding of developmental mechanisms capable of generating the precise and intricate architectures commonly observed. This talk explores developmental flower patterns as cellular responses to a positional information field established by a physical resonance in the flower primordium. The strong parallels between flower primordia and various harmonics of the vector wave equation suggest that either endogenous electromagnetism or structural resonances generated by endogenous ultrasound are involved in long-range plant pattern formation.  
