@@ -1,4 +1,4 @@
-From M. Lisa Manning's 2012 talk "[Emergent mechanical properties in zebrafish embryonic tissues: theory and experiment](http://embryogenesisexplained.rudnyi.ru/2012/03/emergent-mechanical-properties.html)":  
+For M. Lisa Manning's 2012 talk "[Emergent mechanical properties in zebrafish embryonic tissues: theory and experiment](http://embryogenesisexplained.rudnyi.ru/2012/03/emergent-mechanical-properties.html)":  
 
 Slide 3: zebrafish gastrulation  [link](http://www.youtube.com/watch?v=4La78WtK4n8)  
 
