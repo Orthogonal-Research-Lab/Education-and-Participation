@@ -13,7 +13,7 @@ The Open Science movement has provided us with the increased formal sharing of s
 #### I. 14 slide lecture. [Slides](https://github.com/Orthogonal-Research-Lab/Module-II-reusefulness-of-data/blob/master/Version%201/reusefulness-of-data.md)  
 
 <p align="center">
-  <img width="397" height="224" src="https://user-images.githubusercontent.com/38323286/47672764-cdcf1e80-db80-11e8-842e-8f3e5ed93ccf.png">
+  <img width="397" height="224" src="https://user-images.githubusercontent.com/38323286/86315780-b0bddf00-bbf0-11ea-9b3d-838cae432871.png">
 </p>
 
 #### II. Review Data Reuse as a Process:  
@@ -36,7 +36,7 @@ II. maintaining context and transformed data.
 III. building communities around access to data.  
 
 <p align="center">
-  <img width="397" height="221" src="https://user-images.githubusercontent.com/38323286/49099986-7633d980-f238-11e8-80cd-788bd5eed2b7.png">
+  <img width="397" height="221" src="https://user-images.githubusercontent.com/38323286/86315811-d1863480-bbf0-11ea-8784-d6fd57a4e067.png">
 </p>
 
 #### IV. digital badge (microcredential) for data reusability.
