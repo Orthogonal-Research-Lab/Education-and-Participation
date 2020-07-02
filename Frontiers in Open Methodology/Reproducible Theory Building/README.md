@@ -12,7 +12,7 @@ Theory-building is a lesser-known skill in the area of science. With the rising 
 I) 10 slide lecture outlines motivation/background, guidelines, exercises. [Slides](https://github.com/Orthogonal-Research-Lab/Module-I-reproducible-theory-building/blob/master/Version%201/reproducible-theory-building-presentation.md)  
 
 <p align="center">
-  <img width="397" height="224" src="https://user-images.githubusercontent.com/38323286/47673789-9dd54a80-db83-11e8-81a1-d4824df9a745.png"><br>
+  <img width="397" height="224" src="https://user-images.githubusercontent.com/38323286/86314809-38561e80-bbee-11ea-8d05-5a9093533dbb.png"><br>
 </p>
 
 II) review longer lecture on "Theory-building for Data Science". [Slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science)
