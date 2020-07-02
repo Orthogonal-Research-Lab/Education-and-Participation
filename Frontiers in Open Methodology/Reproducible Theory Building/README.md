@@ -18,7 +18,7 @@ I) 10 slide lecture outlines motivation/background, guidelines, exercises. [Slid
 II) review longer lecture on "Theory-building for Data Science". [Slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science)
 
 <p align="center">
-  <img width="397" height="224" src="https://user-images.githubusercontent.com/38323286/47698317-dfdeaa80-dbdc-11e8-8fb2-d3ffac6b8ef6.png"><br>
+  <img width="397" height="224" src="https://user-images.githubusercontent.com/38323286/86314700-e6ad9400-bbed-11ea-9040-7115fbffe626.png"><br>
 </p>
 
 III) digital badge (microcredential) for theory-building.
