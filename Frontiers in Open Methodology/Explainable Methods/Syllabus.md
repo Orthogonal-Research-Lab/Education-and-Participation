@@ -12,7 +12,7 @@ Minimum Viable Lesson:
 I) 14 slide lecture.  [Slides](https://github.com/Orthogonal-Research-Lab/Module-III-Explainable-Methods/blob/master/Version%201/explainable-methods.md)  
 
 <p align="center">
-  <img width="330" height="183" src="https://user-images.githubusercontent.com/38323286/47579482-b3433e00-d911-11e8-9ad0-26b4a5f2b51d.png"><br>
+  <img width="330" height="183" src="https://user-images.githubusercontent.com/38323286/86498657-68b3cf00-bd4c-11ea-98ac-37e086dfffda.png"><br>
 </p>
 
 II) Interactive notebook walkthrough.  [Sample notebook](https://----)  
@@ -48,7 +48,7 @@ IV) Sample Repository (idealized version by directory):
   7) technical papers and associated manuscripts (further reading).  
   
 <p align="center">
-  <img width="246" height="261" src="https://user-images.githubusercontent.com/38323286/47579321-3a43e680-d911-11e8-84f8-c5af9d3fde50.png"><br>
+  <img width="246" height="261" src="https://user-images.githubusercontent.com/38323286/86498622-3dc97b00-bd4c-11ea-8d11-674edfdcb859.png"><br>
 Practically implemented version for the paper "Morphogenetic processes as data: Quantitative structure in the *Drosophila* eye imaginal disc", BioSystems, doi:10.1016/j.biosystems.2018.10.005. [open access link](https://www.biorxiv.org/content/early/2018/08/19/395640)
 </p>
 
